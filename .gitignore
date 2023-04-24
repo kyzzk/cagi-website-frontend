@@ -1,0 +1,27 @@
+# Ignorar arquivos de build
+build/
+dist/
+
+# Ignorar arquivos e pastas específicas
+node_modules/
+.env
+
+# Ignorar arquivos gerados automaticamente
+coverage/
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.report
+*.swp
+*.swo
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# Ignorar arquivos de dependências de desenvolvimento
+/coverage/
+/.eslintcache
+/jest.config.js
+package-lock.json
