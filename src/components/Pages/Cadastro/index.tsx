@@ -12,7 +12,7 @@ const Cadastro: React.FC = () => {
             <div className="col-md-12">
               <div className="form-wrap">
                 <h1>Crie uma conta</h1>
-                <form role="form" action="javascript:;" method="post" id="login-form" autoComplete="off">
+                <form role="form" action="" method="post" id="login-form" autoComplete="off">
                   <div className="form-group">
                     <label htmlFor="email" className="sr-only">Email</label>
                     <input type="email" name="email" id="email" className="form-control" placeholder="email@exemplo.com" />
