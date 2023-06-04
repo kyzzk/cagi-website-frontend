@@ -1,0 +1,126 @@
+#login {
+  padding-top: 50px;
+}
+#login .form-wrap {
+  width: 55%;
+  margin: auto;
+  padding: 40px;
+  background-color: #ecedfa;
+  border-radius: 20px;
+  box-shadow: 1px 1px 7px #00000044;
+}
+#login h1 {
+  color: #4759FF;
+  font-size: 1.6rem;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+#login .form-group {
+  margin-bottom: 25px;
+}
+#login .checkbox {
+  margin-bottom: 20px;
+  position: relative;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+#login .checkbox.show:before {
+content: '\2713'; 
+color: #1fa67b;
+font-size: 17px;
+margin: 1px 0 0 6px;
+position: absolute;
+pointer-events: none;
+}
+
+#login .checkbox .character-checkbox {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  vertical-align: middle;
+  display: inline-block;
+}
+#login .checkbox .label {
+  color: #6d6d6d;
+  font-size: 13px;
+  font-weight: normal;
+}
+#login .btn.btn-custom {
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+#login .links-login {
+text-align: center;
+display: block;
+}
+
+.form-control {
+  color: #212121;
+}
+.btn-custom {
+  color: #fff;
+  background-color: #4759FF;
+  width: 100%;
+}
+.btn-custom:hover,
+.btn-custom:focus {
+  color: #fff;
+  background-color: #4759FF; 
+}
+
+#footer {
+  color: #6d6d6d;
+  font-size: 12px;
+  text-align: center;
+}
+#footer p {
+  margin-bottom: 0;
+}
+#footer a {
+  color: inherit;
+}
+
+@media (max-width: 767px) {
+#login .form-wrap {
+  width: 100%;
+}
+}
+
+@media (max-width: 992px) {
+  #login .form-wrap {
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+#login .form-wrap {
+  padding: 20px;
+}
+}
+
+@media (max-width: 320px) {
+#login h1 {
+  font-size: 16px;
+}
+.btn-custom {
+  font-size: 12px;
+}
+}
+
+@media (max-width: 280px) {
+.btn-custom {
+  width: auto;
+}
+}
+
+@media (max-width: 767px) {
+#footer {
+  font-size: 10px;
+}
+}
