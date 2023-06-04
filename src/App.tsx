@@ -5,6 +5,7 @@ import Login from './components/Pages/Login';
 import Cadastro from './components/Pages/Cadastro';
 import Produto from './components/Pages/Produto';
 import Header from './components/Header/';
+import Footer from './components/Footer/';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/produto" element={<Produto />} />
         <Route path="/" element={<Home />} />
       </Routes>
+      <Footer />
     </Router>
   );
 }
