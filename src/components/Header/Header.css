@@ -31,7 +31,7 @@
 .menu .left-side a:active {
   text-decoration: none;
 }
-.menu .left-side a::after {
+.menu .left-side {
   text-decoration: none;
 }
 .right-side {

@@ -1,0 +1,4420 @@
+{
+    "nPagina": 1,
+    "nTotPaginas": 1,
+    "nRegistros": 54,
+    "nTotRegistros": 54,
+    "titulosEncontrados": [
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.04.13",
+              "nPerc": 100,
+              "nValor": 160.17
+            }
+          ],
+          "cCPFCNPJCliente": "04.874.557/0001-02",
+          "cCodCateg": "2.04.13",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 04499.062943 40799.750001 1 93410000015216",
+          "cNatureza": "P",
+          "cNumBoleto": "457768304000029",
+          "cNumDocFiscal": "65976",
+          "cNumParcela": "005/012",
+          "cNumTitulo": "0000065976",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "S",
+          "cRetPIS": "N",
+          "cStatus": "PAGO",
+          "cTipo": "NFE",
+          "dDtEmissao": "05/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "05/04/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3892062074,
+          "nCodTitRepet": 4275030196,
+          "nCodTitulo": 4311284899,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 8.01,
+          "nValorPIS": 0,
+          "nValorTitulo": 160.17,
+          "observacao": "SERVIÇO DE MONITORAMENTO EQUALIS SP"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868947363",
+            "nDistrPercentual": 100,
+            "nDistrValor": 160.17,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768304000029",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724757,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724756,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 152.16
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 152.16,
+          "nValPago": 152.16
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.04.01",
+              "nPerc": 100,
+              "nValor": 593
+            }
+          ],
+          "cCPFCNPJCliente": "48.890.983/0001-05",
+          "cCodCateg": "2.04.01",
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768303000046",
+          "cNumDocFiscal": "010",
+          "cNumParcela": "005/012",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "",
+          "cRetCSLL": "",
+          "cRetINSS": "",
+          "cRetIR": "",
+          "cRetISS": "",
+          "cRetPIS": "",
+          "cStatus": "PAGO",
+          "cTipo": "NFE",
+          "dDtEmissao": "04/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "04/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4383426033,
+          "nCodTitRepet": 4339098664,
+          "nCodTitulo": 4339122765,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 593,
+          "observacao": "02 VAGAS ESTACIONAMENTO AO LADO DA EQUALIS SP 500,00 AVULSOS 93,00 - MARCOS ETELVINO DE OLIVEIRA"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868947363",
+            "nDistrPercentual": 100,
+            "nDistrValor": 593,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768303000046",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724747,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724746,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 593
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 593,
+          "nValPago": 593
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.04.94",
+              "nPerc": 100,
+              "nValor": 5446.9
+            }
+          ],
+          "cCPFCNPJCliente": "175.920.238-06",
+          "cCodCateg": "2.04.94",
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768302000013",
+          "cNumParcela": "005/009",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "",
+          "cRetCSLL": "",
+          "cRetINSS": "",
+          "cRetIR": "",
+          "cRetISS": "",
+          "cRetPIS": "",
+          "cStatus": "PAGO",
+          "cTipo": "DEP",
+          "dDtEmissao": "01/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "01/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3892568371,
+          "nCodTitRepet": 4339098686,
+          "nCodTitulo": 4339126104,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 5446.9,
+          "observacao": "BONIFICAÇÃO (7.000,00-1.553,10 AMIL SAÚDE)= R$5.446,90"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3898087705",
+            "nDistrPercentual": 100,
+            "nDistrValor": 5446.9,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768302000013",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724714,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724713,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 5446.9
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 5446.9,
+          "nValPago": 5446.9
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.03.07",
+              "nPerc": 100,
+              "nValor": 1464.4
+            }
+          ],
+          "cCPFCNPJCliente": "00.360.305/0001-04",
+          "cCodCateg": "2.03.07",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "858700000146 644001792300 507676050807 580184800030",
+          "cNatureza": "P",
+          "cNumBoleto": "457768305000010",
+          "cNumParcela": "005/012",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "",
+          "cRetCSLL": "",
+          "cRetINSS": "",
+          "cRetIR": "",
+          "cRetISS": "",
+          "cRetPIS": "",
+          "cStatus": "PAGO",
+          "cTipo": "GUIA",
+          "dDtEmissao": "01/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "01/05/2023",
+          "dDtVenc": "07/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3922967739,
+          "nCodTitRepet": 4339098703,
+          "nCodTitulo": 4339164248,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1464.4,
+          "observacao": "FGTS FUNCIONARIO DE EQUALIS SP"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3898087701",
+            "nDistrPercentual": 14.125922,
+            "nDistrValor": 206.86,
+            "nValorFixo": "S"
+          },
+          {
+            "cCodDepartamento": "3898087709",
+            "nDistrPercentual": 28.187654,
+            "nDistrValor": 412.78,
+            "nValorFixo": "S"
+          },
+          {
+            "cCodDepartamento": "3898087711",
+            "nDistrPercentual": 16.00997,
+            "nDistrValor": 234.45,
+            "nValorFixo": "S"
+          },
+          {
+            "cCodDepartamento": "3937747511",
+            "nDistrPercentual": 31.689429,
+            "nDistrValor": 464.06,
+            "nValorFixo": "S"
+          },
+          {
+            "cCodDepartamento": "3985966897",
+            "nDistrPercentual": 9.987025,
+            "nDistrValor": 146.25,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768305000010",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724770,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724769,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1464.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1464.4,
+          "nValPago": 1464.4
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.03.01",
+              "nPerc": 95.9136,
+              "nValor": 5370.27
+            },
+            {
+              "cCodCateg": "2.03.11",
+              "nPerc": 4.0864,
+              "nValor": 228.8
+            }
+          ],
+          "cCPFCNPJCliente": "372.214.328-48",
+          "cCodCateg": null,
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768302000039",
+          "cNumParcela": "005/012",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "",
+          "cRetCSLL": "",
+          "cRetINSS": "",
+          "cRetIR": "",
+          "cRetISS": "",
+          "cRetPIS": "",
+          "cStatus": "PAGO",
+          "cTipo": "HOL",
+          "dDtEmissao": "02/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "02/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3894449092,
+          "nCodTitRepet": 4339098688,
+          "nCodTitulo": 4339168354,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 5599.07,
+          "observacao": "SALÁRIO E VALE TRANSPORTE - IRENE MARIA DO NASCIMENTO FREIRE R$ 4.000,00 PRÊMIO"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3898087701",
+            "nDistrPercentual": 100,
+            "nDistrValor": 5599.07,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768302000039",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724724,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724723,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 5599.07
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 5599.07,
+          "nValPago": 5599.07
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.03.01",
+              "nPerc": 96.0925,
+              "nValor": 5626.54
+            },
+            {
+              "cCodCateg": "2.03.11",
+              "nPerc": 3.9075,
+              "nValor": 228.8
+            }
+          ],
+          "cCPFCNPJCliente": "152.594.258-12",
+          "cCodCateg": null,
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768303000020",
+          "cNumParcela": "005/012",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "",
+          "cRetCSLL": "",
+          "cRetINSS": "",
+          "cRetIR": "",
+          "cRetISS": "",
+          "cRetPIS": "",
+          "cStatus": "PAGO",
+          "cTipo": "HOL",
+          "dDtEmissao": "02/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "02/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3892568527,
+          "nCodTitRepet": 4339098693,
+          "nCodTitulo": 4339178723,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 5855.34,
+          "observacao": "SALÁRIO E VALE TRANSPORTE - LUZIMARA CAMPOS LOPES DA SILVAR$ 4.000,00 PRÊMIO"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3898087711",
+            "nDistrPercentual": 100,
+            "nDistrValor": 5855.34,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768303000020",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724736,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724735,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 5855.34
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 5855.34,
+          "nValPago": 5855.34
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.03.01",
+              "nPerc": 100,
+              "nValor": 7616.49
+            }
+          ],
+          "cCPFCNPJCliente": "256.583.968-59",
+          "cCodCateg": "2.03.01",
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768303000038",
+          "cNumParcela": "005/012",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "",
+          "cRetCSLL": "",
+          "cRetINSS": "",
+          "cRetIR": "",
+          "cRetISS": "",
+          "cRetPIS": "",
+          "cStatus": "PAGO",
+          "cTipo": "HOL",
+          "dDtEmissao": "02/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "02/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3948028354,
+          "nCodTitRepet": 4339098695,
+          "nCodTitulo": 4339178923,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 7616.49,
+          "observacao": "SALÁRIO - MAGALI SCHERER DI GIORNO R$ 4.000,00 PRÊMIO"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3937747511",
+            "nDistrPercentual": 100,
+            "nDistrValor": 7616.49,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768303000038",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724742,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724741,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 7616.49
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 7616.49,
+          "nValPago": 7616.49
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.03.01",
+              "nPerc": 95.5436,
+              "nValor": 4905.44
+            },
+            {
+              "cCodCateg": "2.03.11",
+              "nPerc": 4.4564,
+              "nValor": 228.8
+            }
+          ],
+          "cCPFCNPJCliente": "259.796.428-03",
+          "cCodCateg": null,
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768303000053",
+          "cNumParcela": "005/012",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "",
+          "cRetCSLL": "",
+          "cRetINSS": "",
+          "cRetIR": "",
+          "cRetISS": "",
+          "cRetPIS": "",
+          "cStatus": "PAGO",
+          "cTipo": "HOL",
+          "dDtEmissao": "02/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "02/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3899796368,
+          "nCodTitRepet": 4339098697,
+          "nCodTitulo": 4339179549,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 5134.24,
+          "observacao": "SALÁRIO E VALE TRANSPORTE  - ROBERTO CARLOS DE OLIVEIRA R$ 4.000,00 PRÊMIO"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3985966897",
+            "nDistrPercentual": 100,
+            "nDistrValor": 5134.24,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768303000053",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724752,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724751,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 5134.24
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 5134.24,
+          "nValPago": 5134.24
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.04.14",
+              "nPerc": 100,
+              "nValor": 1162.4
+            }
+          ],
+          "cCPFCNPJCliente": "24.795.733/0001-28",
+          "cCodCateg": "2.04.14",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.57007 00042.673095 52017.720005 1 93410000116240",
+          "cNatureza": "P",
+          "cNumBoleto": "457768304000045",
+          "cNumDocFiscal": "561",
+          "cNumParcela": "005/012",
+          "cNumTitulo": "C620422",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "PAGO",
+          "cTipo": "NFE",
+          "dDtEmissao": "04/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "04/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4057458703,
+          "nCodTitRepet": 4343387139,
+          "nCodTitulo": 4343389257,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1162.4,
+          "observacao": "06 DIARIAS FAXINA VALOR DIARIA  4X200,80, 02X179,60 AULA PRÁTICA, CMF EAD 22"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868947363",
+            "nDistrPercentual": 69.098417,
+            "nDistrValor": 803.2,
+            "nValorFixo": "N"
+          },
+          {
+            "cCodDepartamento": "3937734341",
+            "nDistrPercentual": 10.301101,
+            "nDistrValor": 119.74,
+            "nValorFixo": "S"
+          },
+          {
+            "cCodDepartamento": "3937734343",
+            "nDistrPercentual": 10.300241,
+            "nDistrValor": 119.73,
+            "nValorFixo": "S"
+          },
+          {
+            "cCodDepartamento": "3937734345",
+            "nDistrPercentual": 10.300241,
+            "nDistrValor": 119.73,
+            "nValorFixo": "S"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768304000045",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724764,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724762,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1162.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1162.4,
+          "nValPago": 1162.4
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.03.01",
+              "nPerc": 97.405,
+              "nValor": 6936.52
+            },
+            {
+              "cCodCateg": "2.03.11",
+              "nPerc": 2.595,
+              "nValor": 184.8
+            }
+          ],
+          "cCPFCNPJCliente": "081.917.168-95",
+          "cCodCateg": null,
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768303000012",
+          "cNumParcela": "004/011",
+          "cOrigem": "RPTP",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "PAGO",
+          "cTipo": "HOL",
+          "dDtEmissao": "02/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "02/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3894449466,
+          "nCodTitRepet": 4362324897,
+          "nCodTitulo": 4362325520,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 7121.32,
+          "observacao": "SALÁRIO E VALE TRANSPORTE - LUIS FERNANDO CATENACCIO R$ 4.000,00 PRÊMIO"
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3898087709",
+            "nDistrPercentual": 100,
+            "nDistrValor": 7121.32,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768303000012",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724730,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724729,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 7121.32
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 7121.32,
+          "nValPago": 7121.32
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 712.5
+            }
+          ],
+          "cCPFCNPJCliente": "037.176.069-05",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00354.198673 99989.820008 7 93470000071250",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003541-9",
+          "cNumCtr": "CMF-EAD 21.1/092",
+          "cNumOS": "19402",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4523",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889598248,
+          "nCodCtr": 4316091978,
+          "nCodNF": 4386621896,
+          "nCodOS": 4386621893,
+          "nCodTitRepet": 4386621901,
+          "nCodTitulo": 4386621901,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 712.5
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954682",
+            "nDistrPercentual": 100,
+            "nDistrValor": 712.5,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705347,
+            "nDesconto": 35.63,
+            "nIdLancCC": 4389705346,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 676.87
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 35.63,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 676.87,
+          "nValPago": 712.5
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "091.153.659-05",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00357.578673 99989.820008 9 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003575-7",
+          "cNumCtr": "CMF-EAD 21.2/013",
+          "cNumOS": "19436",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4557",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889593657,
+          "nCodCtr": 4316092682,
+          "nCodNF": 4386622836,
+          "nCodOS": 4386622829,
+          "nCodTitRepet": 4386622840,
+          "nCodTitulo": 4386622840,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954685",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705343,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705342,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 750
+            }
+          ],
+          "cCPFCNPJCliente": "227.997.718-40",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00357.818673 99989.820008 8 93470000075000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003578-1",
+          "cNumCtr": "CMF-EAD 21.2/016",
+          "cNumOS": "19439",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4560",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889593819,
+          "nCodCtr": 4316092692,
+          "nCodNF": 4386622906,
+          "nCodOS": 4386622904,
+          "nCodTitRepet": 4386622909,
+          "nCodTitulo": 4386622909,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 750
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954685",
+            "nDistrPercentual": 100,
+            "nDistrValor": 750,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705339,
+            "nDesconto": 37.5,
+            "nIdLancCC": 4389705338,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 712.5
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 37.5,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 712.5,
+          "nValPago": 750
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 750
+            }
+          ],
+          "cCPFCNPJCliente": "006.283.379-06",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00360.528673 99989.820008 9 93470000075000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003605-2",
+          "cNumCtr": "CMF-EAD 21.2/043",
+          "cNumOS": "19466",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4587",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889595703,
+          "nCodCtr": 4316092856,
+          "nCodNF": 4386623662,
+          "nCodOS": 4386623656,
+          "nCodTitRepet": 4386623666,
+          "nCodTitulo": 4386623666,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 750
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954685",
+            "nDistrPercentual": 100,
+            "nDistrValor": 750,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705334,
+            "nDesconto": 37.5,
+            "nIdLancCC": 4389705332,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 712.5
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 37.5,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 712.5,
+          "nValPago": 750
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "458.869.138-40",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00363.348673 99989.820008 3 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003633-4",
+          "cNumCtr": "CMF-EAD 21.2/071",
+          "cNumOS": "19494",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4615",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889599694,
+          "nCodCtr": 4316093017,
+          "nCodNF": 4386624610,
+          "nCodOS": 4386624609,
+          "nCodTitRepet": 4386624613,
+          "nCodTitulo": 4386624613,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954685",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705327,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705325,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "020.136.640-10",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00365.818673 99989.820008 1 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003658-1",
+          "cNumCtr": "CMF-EAD 21.2/099",
+          "cNumOS": "19519",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4640",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889602284,
+          "nCodCtr": 4316093166,
+          "nCodNF": 4386625295,
+          "nCodOS": 4386625294,
+          "nCodTitRepet": 4386625298,
+          "nCodTitulo": 4386625298,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954685",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705322,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705321,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 750
+            }
+          ],
+          "cCPFCNPJCliente": "010.248.733-23",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00367.638673 99989.820008 8 93470000075000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003676-3",
+          "cNumCtr": "CMF-EAD 21.2/118",
+          "cNumOS": "19537",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4658",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889603769,
+          "nCodCtr": 4316093249,
+          "nCodNF": 4386625902,
+          "nCodOS": 4386625901,
+          "nCodTitRepet": 4386625905,
+          "nCodTitulo": 4386625905,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 750
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954685",
+            "nDistrPercentual": 100,
+            "nDistrValor": 750,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705318,
+            "nDesconto": 37.5,
+            "nIdLancCC": 4389705317,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 712.5
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 37.5,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 712.5,
+          "nValPago": 750
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1090
+            }
+          ],
+          "cCPFCNPJCliente": "225.134.298-26",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00368.548673 99989.820008 6 93470000109000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003685-4",
+          "cNumCtr": "CMF-EAD 22.1/008",
+          "cNumOS": "19546",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4667",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3929106333,
+          "nCodCtr": 4316093277,
+          "nCodNF": 4386626126,
+          "nCodOS": 4386626121,
+          "nCodTitRepet": 4386626129,
+          "nCodTitulo": 4386626129,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1090
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868972110",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1090,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705314,
+            "nDesconto": 54.5,
+            "nIdLancCC": 4389705313,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1035.5
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 54.5,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1035.5,
+          "nValPago": 1090
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "469.167.678-39",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00374.238673 99989.820008 7 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003742-3",
+          "cNumCtr": "CMF-EAD 23.1/013",
+          "cNumOS": "19603",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4724",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4224198439,
+          "nCodCtr": 4378710225,
+          "nCodNF": 4386627722,
+          "nCodOS": 4386627718,
+          "nCodTitRepet": 4386627729,
+          "nCodTitulo": 4386627729,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705310,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705309,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "454.100.818-11",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00374.498673 99989.820008 4 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003744-9",
+          "cNumCtr": "CMF-EAD 23.1/015",
+          "cNumOS": "19605",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4726",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4131966660,
+          "nCodCtr": 4378710243,
+          "nCodNF": 4386627827,
+          "nCodOS": 4386627813,
+          "nCodTitRepet": 4386627831,
+          "nCodTitulo": 4386627831,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Telefone",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705306,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705305,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "357.280.318-70",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00376.548673 99989.820008 2 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003765-4",
+          "cNumCtr": "CMF-EAD 23.1/038",
+          "cNumOS": "19626",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4747",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3898849659,
+          "nCodCtr": 4378710414,
+          "nCodNF": 4386628411,
+          "nCodOS": 4386628409,
+          "nCodTitRepet": 4386628414,
+          "nCodTitulo": 4386628414,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705302,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705301,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 792
+            }
+          ],
+          "cCPFCNPJCliente": "032.754.530-50",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00377.878673 99989.820008 5 93470000079200",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003778-7",
+          "cNumCtr": "CMF-EAD 23.1/051",
+          "cNumOS": "19639",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4760",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4361959904,
+          "nCodCtr": 4378710489,
+          "nCodNF": 4386628704,
+          "nCodOS": 4386628702,
+          "nCodTitRepet": 4386628707,
+          "nCodTitulo": 4386628707,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 792
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 792,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Telefone",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705298,
+            "nDesconto": 39.6,
+            "nIdLancCC": 4389705297,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 752.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 39.6,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 752.4,
+          "nValPago": 792
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 792
+            }
+          ],
+          "cCPFCNPJCliente": "380.600.298-35",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00377.958673 99989.820008 1 93470000079200",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003779-5",
+          "cNumCtr": "CMF-EAD 23.1/052",
+          "cNumOS": "19640",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4761",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4362213140,
+          "nCodCtr": 4378710492,
+          "nCodNF": 4386628740,
+          "nCodOS": 4386628739,
+          "nCodTitRepet": 4386628743,
+          "nCodTitulo": 4386628743,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 792
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 792,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705294,
+            "nDesconto": 39.6,
+            "nIdLancCC": 4389705293,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 752.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 39.6,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 752.4,
+          "nValPago": 792
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 792
+            }
+          ],
+          "cCPFCNPJCliente": "442.311.848-36",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00378.118673 99989.820008 6 93470000079200",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003781-1",
+          "cNumCtr": "CMF-EAD 23.1/054",
+          "cNumOS": "19642",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4763",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4369855452,
+          "nCodCtr": 4378710501,
+          "nCodNF": 4386628784,
+          "nCodOS": 4386628783,
+          "nCodTitRepet": 4386628787,
+          "nCodTitulo": 4386628787,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 792
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 792,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Itaú Bankline",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705287,
+            "nDesconto": 39.6,
+            "nIdLancCC": 4389705286,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 752.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 39.6,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 752.4,
+          "nValPago": 792
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 792
+            }
+          ],
+          "cCPFCNPJCliente": "023.712.819-56",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00378.458673 99989.820008 9 93470000079200",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003784-5",
+          "cNumCtr": "CMF-EAD 23.1/057",
+          "cNumOS": "19645",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4766",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4262328758,
+          "nCodCtr": 4378710515,
+          "nCodNF": 4386628856,
+          "nCodOS": 4386628850,
+          "nCodTitRepet": 4386628865,
+          "nCodTitulo": 4386628865,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 792
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 792,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705280,
+            "nDesconto": 39.6,
+            "nIdLancCC": 4389705279,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 752.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 39.6,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 752.4,
+          "nValPago": 792
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 792
+            }
+          ],
+          "cCPFCNPJCliente": "391.445.138-60",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00378.528673 99989.820008 1 93470000079200",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003785-2",
+          "cNumCtr": "CMF-EAD 23.1/058",
+          "cNumOS": "19646",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4767",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4360003500,
+          "nCodCtr": 4378710520,
+          "nCodNF": 4386628885,
+          "nCodOS": 4386628881,
+          "nCodTitRepet": 4386628888,
+          "nCodTitulo": 4386628888,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 792
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 792,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Telefone",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705274,
+            "nDesconto": 39.6,
+            "nIdLancCC": 4389705272,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 752.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 39.6,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 752.4,
+          "nValPago": 792
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "153.045.837-44",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00379.518673 99989.820008 7 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003795-1",
+          "cNumCtr": "CMF-EAD 23.1/071",
+          "cNumOS": "19656",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4777",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4378530912,
+          "nCodCtr": 4380198672,
+          "nCodNF": 4386629104,
+          "nCodOS": 4386629100,
+          "nCodTitRepet": 4386629108,
+          "nCodTitulo": 4386629108,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705267,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705266,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 555
+            }
+          ],
+          "cCPFCNPJCliente": "069.785.469-84",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00384.218673 99989.820008 1 93470000055500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003842-1",
+          "cNumCtr": "CMPA-EAD 21.1/032",
+          "cNumOS": "19703",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4824",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889595102,
+          "nCodCtr": 4316093850,
+          "nCodNF": 4386630642,
+          "nCodOS": 4386630623,
+          "nCodTitRepet": 4386630645,
+          "nCodTitulo": 4386630645,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 555
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954633",
+            "nDistrPercentual": 100,
+            "nDistrValor": 555,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705260,
+            "nDesconto": 27.75,
+            "nIdLancCC": 4389705259,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 527.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 27.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 527.25,
+          "nValPago": 555
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 658
+            }
+          ],
+          "cCPFCNPJCliente": "344.908.318-03",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00389.428673 99989.820008 9 93470000065800",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003894-2",
+          "cNumCtr": "CMPA-EAD 21.2/022",
+          "cNumOS": "19755",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4876",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889595351,
+          "nCodCtr": 4316095313,
+          "nCodNF": 4386632710,
+          "nCodOS": 4386632702,
+          "nCodTitRepet": 4386632713,
+          "nCodTitulo": 4386632713,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 658
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954635",
+            "nDistrPercentual": 100,
+            "nDistrValor": 658,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Código de Barras",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705255,
+            "nDesconto": 32.9,
+            "nIdLancCC": 4389705254,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 625.1
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 32.9,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 625.1,
+          "nValPago": 658
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 555
+            }
+          ],
+          "cCPFCNPJCliente": "064.548.411-38",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00390.498673 99989.820008 6 93470000055500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003904-9",
+          "cNumCtr": "CMPA-EAD 21.2/032",
+          "cNumOS": "19765",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4886",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889596586,
+          "nCodCtr": 4316095416,
+          "nCodNF": 4386632949,
+          "nCodOS": 4386632941,
+          "nCodTitRepet": 4386632953,
+          "nCodTitulo": 4386632953,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 555
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954635",
+            "nDistrPercentual": 100,
+            "nDistrValor": 555,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Telefone",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705251,
+            "nDesconto": 27.75,
+            "nIdLancCC": 4389705250,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 527.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 27.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 527.25,
+          "nValPago": 555
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 658
+            }
+          ],
+          "cCPFCNPJCliente": "068.058.181-25",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00391.718673 99989.820008 7 93470000065800",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003917-1",
+          "cNumCtr": "CMPA-EAD 21.2/045",
+          "cNumOS": "19778",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4899",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889598402,
+          "nCodCtr": 4316095544,
+          "nCodNF": 4386633240,
+          "nCodOS": 4386633232,
+          "nCodTitRepet": 4386633246,
+          "nCodTitulo": 4386633246,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 658
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954635",
+            "nDistrPercentual": 100,
+            "nDistrValor": 658,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705247,
+            "nDesconto": 32.9,
+            "nIdLancCC": 4389705246,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 625.1
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 32.9,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 625.1,
+          "nValPago": 658
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 658
+            }
+          ],
+          "cCPFCNPJCliente": "222.956.188-00",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00393.208673 99989.820008 3 93470000065800",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003932-0",
+          "cNumCtr": "CMPA-EAD 21.2/060",
+          "cNumOS": "19793",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4914",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889599618,
+          "nCodCtr": 4316095680,
+          "nCodNF": 4386633700,
+          "nCodOS": 4386633695,
+          "nCodTitRepet": 4386633703,
+          "nCodTitulo": 4386633703,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 658
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868954635",
+            "nDistrPercentual": 100,
+            "nDistrValor": 658,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Telefone",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705242,
+            "nDesconto": 32.9,
+            "nIdLancCC": 4389705240,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 625.1
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 32.9,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 625.1,
+          "nValPago": 658
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "474.887.408-23",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00397.348673 99989.820008 5 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003973-4",
+          "cNumCtr": "CMPA-EAD 22.1/006",
+          "cNumOS": "19834",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4955",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3900434687,
+          "nCodCtr": 4316096028,
+          "nCodNF": 4386634622,
+          "nCodOS": 4386634616,
+          "nCodTitRepet": 4386634627,
+          "nCodTitulo": 4386634627,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868967922",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705234,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705233,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "012.375.171-33",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00398.178673 99989.820008 2 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00003981-7",
+          "cNumCtr": "CMPA-EAD 22.1/014",
+          "cNumOS": "19842",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "4963",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3896881469,
+          "nCodCtr": 4316096054,
+          "nCodNF": 4386634833,
+          "nCodOS": 4386634810,
+          "nCodTitRepet": 4386634838,
+          "nCodTitulo": 4386634838,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868967922",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Itaú Bankline",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705228,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705227,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 766
+            }
+          ],
+          "cCPFCNPJCliente": "426.245.558-03",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00403.028673 99989.820008 6 93470000076600",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004030-2",
+          "cNumCtr": "CMPA-EAD 22.1/069",
+          "cNumOS": "19891",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5012",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3846309386,
+          "nCodCtr": 4316096490,
+          "nCodNF": 4386636456,
+          "nCodOS": 4386636441,
+          "nCodTitRepet": 4386636462,
+          "nCodTitulo": 4386636462,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 766
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868967922",
+            "nDistrPercentual": 100,
+            "nDistrValor": 766,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Itaú Bankline",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705220,
+            "nDesconto": 38.3,
+            "nIdLancCC": 4389705219,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 727.7
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 38.3,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 727.7,
+          "nValPago": 766
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 766
+            }
+          ],
+          "cCPFCNPJCliente": "001.987.661-06",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00403.858673 99989.820008 9 93470000076600",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004038-5",
+          "cNumCtr": "CMPA-EAD 22.1/078",
+          "cNumOS": "19899",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5020",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3900385028,
+          "nCodCtr": 4316096586,
+          "nCodNF": 4386636640,
+          "nCodOS": 4386636637,
+          "nCodTitRepet": 4386636643,
+          "nCodTitulo": 4386636643,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 766
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868967922",
+            "nDistrPercentual": 100,
+            "nDistrValor": 766,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705209,
+            "nDesconto": 38.3,
+            "nIdLancCC": 4389705207,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 727.7
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 38.3,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 727.7,
+          "nValPago": 766
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "101.018.939-57",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00405.008673 99989.820008 2 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004050-0",
+          "cNumCtr": "CMPA-EAD 22.1/090",
+          "cNumOS": "19911",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5032",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889603407,
+          "nCodCtr": 4316096703,
+          "nCodNF": 4386636975,
+          "nCodOS": 4386636970,
+          "nCodTitRepet": 4386636978,
+          "nCodTitulo": 4386636978,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868967922",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Telefone",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705200,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705198,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "057.016.905-47",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00407.248673 99989.820008 6 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004072-4",
+          "cNumCtr": "CMPA-EAD 23.1/019",
+          "cNumOS": "19933",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5054",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4359520235,
+          "nCodCtr": 4378795494,
+          "nCodNF": 4386637781,
+          "nCodOS": 4386637778,
+          "nCodTitRepet": 4386637784,
+          "nCodTitulo": 4386637784,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214230339",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pela Linha Digitável",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705193,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705192,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "114.020.556-09",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00407.998673 99989.820008 3 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004079-9",
+          "cNumCtr": "CMPA-EAD 23.1/026",
+          "cNumOS": "19940",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5061",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4368923303,
+          "nCodCtr": 4378795511,
+          "nCodNF": 4386637908,
+          "nCodOS": 4386637907,
+          "nCodTitRepet": 4386637911,
+          "nCodTitulo": 4386637911,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214230339",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Itaú Bankline",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705187,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705185,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "136.329.016-94",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00410.788673 99989.820008 1 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004107-8",
+          "cNumCtr": "CMPA-EAD 23.1/059",
+          "cNumOS": "19968",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5089",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4155962237,
+          "nCodCtr": 4380615307,
+          "nCodNF": 4386641796,
+          "nCodOS": 4386641794,
+          "nCodTitRepet": 4386641800,
+          "nCodTitulo": 4386641800,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214230339",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705179,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705177,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 880
+            }
+          ],
+          "cCPFCNPJCliente": "434.584.258-10",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00411.448673 99989.820008 9 93470000088000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004114-4",
+          "cNumCtr": "CMPA-EAD 23.1/069",
+          "cNumOS": "19975",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5096",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4371070373,
+          "nCodCtr": 4380615339,
+          "nCodNF": 4386643026,
+          "nCodOS": 4386643021,
+          "nCodTitRepet": 4386643029,
+          "nCodTitulo": 4386643029,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 880
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214230339",
+            "nDistrPercentual": 100,
+            "nDistrValor": 880,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705172,
+            "nDesconto": 44,
+            "nIdLancCC": 4389705171,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 836
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 44,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 836,
+          "nValPago": 880
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 792
+            }
+          ],
+          "cCPFCNPJCliente": "327.307.228-82",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00413.008673 99989.820008 9 93470000079200",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004130-0",
+          "cNumCtr": "CMPA-EAD 23.1/089",
+          "cNumOS": "19991",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5112",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4380895741,
+          "nCodCtr": 4382854610,
+          "nCodNF": 4386644180,
+          "nCodOS": 4386644150,
+          "nCodTitRepet": 4386644183,
+          "nCodTitulo": 4386644183,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 792
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214230339",
+            "nDistrPercentual": 100,
+            "nDistrValor": 792,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Itaú Bankline",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705166,
+            "nDesconto": 39.6,
+            "nIdLancCC": 4389705165,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 752.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 39.6,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 752.4,
+          "nValPago": 792
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1475
+            }
+          ],
+          "cCPFCNPJCliente": "045.599.364-55",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00414.908673 99989.820008 4 93470000147500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004149-0",
+          "cNumCtr": "DERMATO-EAD 22.1/005",
+          "cNumOS": "20010",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5131",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3930607639,
+          "nCodCtr": 4316097779,
+          "nCodNF": 4386645575,
+          "nCodOS": 4386645554,
+          "nCodTitRepet": 4386645578,
+          "nCodTitulo": 4386645578,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1475
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868970548",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1475,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Itaú Bankline",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705155,
+            "nDesconto": 73.75,
+            "nIdLancCC": 4389705154,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1401.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 73.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1401.25,
+          "nValPago": 1475
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1475
+            }
+          ],
+          "cCPFCNPJCliente": "310.360.778-45",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00415.738673 99989.820008 1 93470000147500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004157-3",
+          "cNumCtr": "DERMATO-EAD 22.1/014",
+          "cNumOS": "20018",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5139",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889595318,
+          "nCodCtr": 4316097861,
+          "nCodNF": 4386645960,
+          "nCodOS": 4386645953,
+          "nCodTitRepet": 4386645964,
+          "nCodTitulo": 4386645964,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1475
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868970548",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1475,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705151,
+            "nDesconto": 73.75,
+            "nIdLancCC": 4389705150,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1401.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 73.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1401.25,
+          "nValPago": 1475
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1475
+            }
+          ],
+          "cCPFCNPJCliente": "080.859.719-17",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00415.998673 99989.820008 9 93470000147500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004159-9",
+          "cNumCtr": "DERMATO-EAD 22.1/016",
+          "cNumOS": "20020",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5141",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3900470304,
+          "nCodCtr": 4316097879,
+          "nCodNF": 4386646017,
+          "nCodOS": 4386646010,
+          "nCodTitRepet": 4386646020,
+          "nCodTitulo": 4386646020,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1475
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868970548",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1475,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705147,
+            "nDesconto": 73.75,
+            "nIdLancCC": 4389705146,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1401.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 73.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1401.25,
+          "nValPago": 1475
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1475
+            }
+          ],
+          "cCPFCNPJCliente": "441.181.058-10",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00417.558673 99989.820008 7 93470000147500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004175-5",
+          "cNumCtr": "DERMATO-EAD 22.1/032",
+          "cNumOS": "20036",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5157",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889597125,
+          "nCodCtr": 4316098027,
+          "nCodNF": 4386646554,
+          "nCodOS": 4386646540,
+          "nCodTitRepet": 4386646557,
+          "nCodTitulo": 4386646557,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1475
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868970548",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1475,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705143,
+            "nDesconto": 73.75,
+            "nIdLancCC": 4389705142,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1401.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 73.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1401.25,
+          "nValPago": 1475
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1475
+            }
+          ],
+          "cCPFCNPJCliente": "378.573.468-96",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00418.138673 99989.820008 1 93470000147500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004181-3",
+          "cNumCtr": "DERMATO-EAD 22.1/038",
+          "cNumOS": "20042",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5163",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889597691,
+          "nCodCtr": 4316098083,
+          "nCodNF": 4386646799,
+          "nCodOS": 4386646786,
+          "nCodTitRepet": 4386646804,
+          "nCodTitulo": 4386646804,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1475
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868970548",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1475,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705139,
+            "nDesconto": 73.75,
+            "nIdLancCC": 4389705138,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1401.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 73.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1401.25,
+          "nValPago": 1475
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1475
+            }
+          ],
+          "cCPFCNPJCliente": "013.989.782-80",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00420.848673 99989.820008 7 93470000147500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004208-4",
+          "cNumCtr": "DERMATO-EAD 22.1/066",
+          "cNumOS": "20069",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5190",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3934369996,
+          "nCodCtr": 4316098327,
+          "nCodNF": 4386647730,
+          "nCodOS": 4386647707,
+          "nCodTitRepet": 4386647733,
+          "nCodTitulo": 4386647733,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1475
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868970548",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1475,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705135,
+            "nDesconto": 73.75,
+            "nIdLancCC": 4389705134,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1401.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 73.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1401.25,
+          "nValPago": 1475
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1475
+            }
+          ],
+          "cCPFCNPJCliente": "430.094.888-74",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00421.758673 99989.820008 1 93470000147500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004217-5",
+          "cNumCtr": "DERMATO-EAD 22.1/075",
+          "cNumOS": "20078",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5199",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3896881372,
+          "nCodCtr": 4316098436,
+          "nCodNF": 4386648056,
+          "nCodOS": 4386648042,
+          "nCodTitRepet": 4386648060,
+          "nCodTitulo": 4386648060,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1475
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "3868970548",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1475,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705130,
+            "nDesconto": 73.75,
+            "nIdLancCC": 4389705129,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1401.25
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 73.75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1401.25,
+          "nValPago": 1475
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1500
+            }
+          ],
+          "cCPFCNPJCliente": "370.168.508-89",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00429.518673 99989.820008 9 93470000150000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004295-1",
+          "cNumCtr": "DERMATO-EAD 23.1/057",
+          "cNumOS": "20156",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5277",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4373379296,
+          "nCodCtr": 4378595264,
+          "nCodNF": 4386650543,
+          "nCodOS": 4386650535,
+          "nCodTitRepet": 4386650546,
+          "nCodTitulo": 4386650546,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1500
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4189286961",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1500,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Telefone",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705124,
+            "nDesconto": 75,
+            "nIdLancCC": 4389705123,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1425
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1425,
+          "nValPago": 1500
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1500
+            }
+          ],
+          "cCPFCNPJCliente": "046.902.689-83",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00430.178673 99989.820008 1 93470000150000",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004301-7",
+          "cNumCtr": "DERMATO-EAD 23.1/067",
+          "cNumOS": "20162",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5283",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4376391333,
+          "nCodCtr": 4378595370,
+          "nCodNF": 4386650645,
+          "nCodOS": 4386650636,
+          "nCodTitRepet": 4386650648,
+          "nCodTitulo": 4386650648,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1500
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4189286961",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1500,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Código de Barras",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705116,
+            "nDesconto": 75,
+            "nIdLancCC": 4389705115,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1425
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 75,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1425,
+          "nValPago": 1500
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 1425
+            }
+          ],
+          "cCPFCNPJCliente": "484.018.188-85",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00431.328673 99989.820008 3 93470000142500",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004313-2",
+          "cNumCtr": "DERMATO-EAD 23.1/082",
+          "cNumOS": "20174",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5295",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "25/04/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "11/05/2023",
+          "dDtRegistro": "25/04/2023",
+          "dDtVenc": "11/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3889595174,
+          "nCodCtr": 4381926389,
+          "nCodNF": 4386651074,
+          "nCodOS": 4386651059,
+          "nCodTitRepet": 4386651077,
+          "nCodTitulo": 4386651077,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 1425
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4189286961",
+            "nDistrPercentual": 100,
+            "nDistrValor": 1425,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pela Linha Digitável",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705111,
+            "nDesconto": 71.25,
+            "nIdLancCC": 4389705110,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 1353.75
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 71.25,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 1353.75,
+          "nValPago": 1425
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "2.11.99",
+              "nPerc": 100,
+              "nValor": 100000
+            }
+          ],
+          "cCPFCNPJCliente": "05.801.848/0001-33",
+          "cCodCateg": "2.11.99",
+          "cCodIntTitulo": "",
+          "cNatureza": "P",
+          "cNumBoleto": "457768302000021",
+          "cNumParcela": "001/001",
+          "cOrigem": "MANP",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "PAGO",
+          "cTipo": "TRA",
+          "dDtEmissao": "05/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "05/05/2023",
+          "dDtRegistro": "05/05/2023",
+          "dDtVenc": "05/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 3912901325,
+          "nCodTitRepet": 4389470913,
+          "nCodTitulo": 4389470913,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 100000
+        },
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "P",
+            "cObsLanc": "Pagamento confirmado pela importação do arquivo de retorno de integração dos pagamentos.|Número do Pagamento (confirmado pelo banco): 457768302000021",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389724719,
+            "nDesconto": 0,
+            "nIdLancCC": 4389724718,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 100000
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 0,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 100000,
+          "nValPago": 100000
+        }
+      },
+      {
+        "cabecTitulo": {
+          "aCodCateg": [
+            {
+              "cCodCateg": "1.01.01",
+              "nPerc": 100,
+              "nValor": 792
+            }
+          ],
+          "cCPFCNPJCliente": "100.532.679-74",
+          "cCodCateg": "1.01.01",
+          "cCodIntTitulo": "",
+          "cCodigoBarras": "34191.09008 00436.458673 99989.820008 3 93440000079200",
+          "cNatureza": "R",
+          "cNumBoleto": "109/00004364-5",
+          "cNumCtr": "CMF-EAD 23.1/118",
+          "cNumOS": "20488",
+          "cNumParcela": "001/001",
+          "cNumTitulo": "5346",
+          "cOperacao": "01",
+          "cOrigem": "VENR",
+          "cRetCOFINS": "N",
+          "cRetCSLL": "N",
+          "cRetINSS": "N",
+          "cRetIR": "N",
+          "cRetISS": "N",
+          "cRetPIS": "N",
+          "cStatus": "RECEBIDO",
+          "cTipo": "BOL",
+          "dDtEmissao": "05/05/2023",
+          "dDtPagamento": "05/05/2023",
+          "dDtPrevisao": "08/05/2023",
+          "dDtRegistro": "05/05/2023",
+          "dDtVenc": "08/05/2023",
+          "nCodCC": 3808879940,
+          "nCodCliente": 4389492306,
+          "nCodCtr": 4389515757,
+          "nCodNF": 4389515979,
+          "nCodOS": 4389515929,
+          "nCodTitRepet": 4389515982,
+          "nCodTitulo": 4389515982,
+          "nValorCOFINS": 0,
+          "nValorCSLL": 0,
+          "nValorINSS": 0,
+          "nValorIR": 0,
+          "nValorISS": 0,
+          "nValorPIS": 0,
+          "nValorTitulo": 792
+        },
+        "departamentos": [
+          {
+            "cCodDepartamento": "4214355771",
+            "nDistrPercentual": 100,
+            "nDistrValor": 792,
+            "nValorFixo": "N"
+          }
+        ],
+        "lancamentos": [
+          {
+            "cCodIntLanc": "",
+            "cNatureza": "R",
+            "cObsLanc": "Recebimento realizado a partir da importação do arquivo de retorno da cobrança.|O banco informou que o boleto foi pago da seguinte maneira: |Outros Bancos - Pelo Auto Atendimento",
+            "dDtLanc": "05/05/2023",
+            "nCodCC": 3808879940,
+            "nCodLanc": 4389705104,
+            "nDesconto": 39.6,
+            "nIdLancCC": 4389705103,
+            "nJuros": 0,
+            "nMulta": 0,
+            "nValLanc": 752.4
+          }
+        ],
+        "resumo": {
+          "cLiquidado": "S",
+          "nDesconto": 39.6,
+          "nJuros": 0,
+          "nMulta": 0,
+          "nValAberto": 0,
+          "nValLiquido": 752.4,
+          "nValPago": 792
+        }
+      }
+    ]
+  }
