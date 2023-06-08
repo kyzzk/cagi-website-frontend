@@ -16,6 +16,65 @@
   width: 90px;
   height: 90px;
 }
+.login-link {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  margin-right: 10px; /* Ajuste a margem conforme necessário */
+}
+.login-link:hover,
+.cart-link:hover {
+  color: #4759FF; /* Cor do texto ao passar o mouse */
+}
+.login-link::before,
+.cart-link::before {
+  content: "";
+  position: absolute;
+  width: calc(100% + 8px);
+  height: calc(100% + 8px);
+  top: -4px;
+  left: -4px;
+  border-radius: 8px;
+  box-shadow: 0 0 0 0 rgba(71, 89, 255, 0.5);
+  transform: scale(1);
+  transition: box-shadow 0.3s, transform 0.3s;
+  pointer-events: none;
+  color: #4759FF
+}
+
+.login-link:hover::before,
+.cart-link:hover::before {
+  color: #4759FF; /* Cor da barra */
+  box-shadow: 0 0 0 4px rgba(71, 89, 255, 0.5);
+  transform: scale(1.05);
+}
+
+.login-text {
+  margin-right: 5px;
+}
+
+.login-icon,
+.cart-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.cart-link {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.login-text {
+  margin-right: 5px;
+}
+
+.login-icon {
+  width: 20px;
+  height: 20px;
+}
 
 .hamburger {
   display: none;
