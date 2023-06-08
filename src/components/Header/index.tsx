@@ -13,29 +13,32 @@ const Header: React.FC = () => {
   };
 
   return (
-    <header className="header py-4 shadow">
+    <header className="header py-4">
       <FiMenu className="hamburger" onClick={toggleMenu} />
       <nav className={`menu ${isOpen ? 'open' : ''}`}>
         <div className="left-side">
           <a target="blank" href="https://www.instagram.com/cagiufpr/">
             <img className="img-fluid logo-cagi" src={logoCagi} alt="Logo do CAGI" />
           </a>
-          <a href='/' className='mx-2'>
-            <p>CAGI</p>
+          <a href='/cagi' className='mx-2'>
+            <p className='text-underline'>CAGI</p>
           </a>
-          <a href="#" className='mx-2'>
-            <p>Home</p>
+          <a href="/" className='mx-2'>
+          <p className='text-underline'>HOME</p>
           </a>
-          <a href="#" className='mx-2'>
-            <p>Produtos</p>
+          <a href="/produtos" className='mx-2'>
+          <p className='text-underline'>PRODUTOS</p>
           </a>
-          <a href="#" className='mx-2'>
-            <p>Sobre o curso</p>
+          <a href="/sobre" className='mx-2'>
+          <p className='text-underline'>SOBRE O CURSO</p>
           </a>
         </div>
       </nav>
       <div className="right-side">
-          <a href='Login'><LogIn /></a>
+      <a href='Login' className="login-link">
+            <span>LOGAR</span>
+            <LogIn className="login-icon" />
+          </a>
           <ShoppingCart />
         </div>
     </header>

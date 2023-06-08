@@ -9,13 +9,12 @@
   justify-content: space-between;
   padding: 0 15%;
   align-items: center;
-  background-color: #30387c;
-  color: #fff;
+  color: black;
 }
 
 .logo-cagi{
-  width: 50px;
-  height: 50px;
+  width: 90px;
+  height: 90px;
 }
 
 .hamburger {
@@ -35,17 +34,46 @@
   align-items: baseline;
   gap: 20px;
 }
-a {
+
+.login-link {
+  display: flex;
+  align-items: center;
   text-decoration: none;
-}
-a:visited {
-  text-decoration: none;
-  color: #fff;
 }
 
-a:hover{
-  color: #f1d6b1;
+.login-icon {
+  margin-left: 5px;
 }
+
+
+a {
+  color: #000; /* Cor do texto */
+  text-decoration: none; /* Remova o underline padrão */
+  position: relative; /* Define uma posição relativa */
+}
+
+.text-underline:hover {
+  color: #4759FF; /* Cor do texto ao passar o mouse */
+}
+
+.text-underline::after {
+  content: ""; /* Adiciona um conteúdo vazio após o link */
+  position: absolute; /* Define uma posição absoluta em relação ao link */
+  width: 100%; /* Define a largura como 100% do link */
+  height: 2px; /* Define a altura do underline */
+  bottom: 10px; /* Posiciona o underline abaixo do link */
+  right: 0px;
+  background-color: #4759FF; /* Cor do underline */
+  visibility: hidden; /* Torna o underline invisível por padrão */
+  transform: scaleX(0); /* Reduz a largura do underline a 0 */
+  transition: all 0.3s ease-in-out; /* Adiciona uma transição suave */
+}
+
+.text-underline:hover::after {
+  visibility: visible; /* Torna o underline visível ao passar o mouse */
+  transform: scaleX(1); /* Aumenta a largura do underline para 100% */
+}
+
 
 .menu .left-side {
   text-decoration: none;
